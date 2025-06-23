@@ -11,13 +11,13 @@
 <a href="https://instagram.com/tovarnickii.b" target="blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark"></a>
 
 <h2 style="font-size:;" align="left"><span>&#128187;</span> Web Development:</h2>
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,php,js,jquery,nodejs,express,mysql,postman,git,vscode&theme=dark"> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,php,js,jquery,nodejs,express,mysql,mongo,postman,git,vscode&theme=dark"> </p>
 
 <h2 style="font-size:;" align="left"><span>&#128191;</span> Other Technologies:</h2>
 <p align="left"> <img src="https://skillicons.dev/icons?i=cs,c,visualstudio,ps,ae&theme=dark"> </p>
 
 <h2>🌱 I’m currently learning:</h2>
-<img src="https://skillicons.dev/icons?i=react,mongo&theme=dark">
+<img src="https://skillicons.dev/icons?i=react&theme=dark">
 
 <h2><span>&#128200;</span> GitHub Stats:</h2>
 
