@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,express,mongo,postman,git,vscode&theme=dark"> </p>
 
 <h2 style="font-size:;" align="left"><span>&#128191;</span> Other Technologies:</h2>
-<p align="left"> <img src="https://skillicons.dev/icons?i=cs,c,visualstudio,ps&theme=dark"> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=visualstudio,ps&theme=dark"> </p>
 
 <h2>🌱 I’m currently learning:</h2>
 <img src="https://skillicons.dev/icons?i=react&theme=dark">
