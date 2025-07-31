@@ -17,7 +17,7 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=visualstudio,ps&theme=dark"> </p>
 
 <h2>🌱 I’m currently learning:</h2>
-<img src="https://skillicons.dev/icons?i=react&theme=dark">
+<img src="https://skillicons.dev/icons?i=react,linux&theme=dark">
 
 <h2><span>&#128200;</span> GitHub Stats:</h2>
 
