@@ -21,5 +21,5 @@
 
 <h2><span>&#128200;</span> GitHub Stats:</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovvahkiin&layout=compact&theme=dark&hide_border=true)
- 
+![](https://nirzak-streak-stats.vercel.app/?user=dovvahkiin&theme=react&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dovvahkiin&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)</br>
