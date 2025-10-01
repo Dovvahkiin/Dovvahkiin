@@ -14,10 +14,10 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongo,mysql,postman,git,vscode&theme=dark"> </p>
 
 <h2 style="font-size:;" align="left"><span>&#128191;</span> Other Technologies:</h2>
-<p align="left"> <img src="https://skillicons.dev/icons?i=visualstudio,ps&theme=dark"> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=visualstudio,ps,cs&theme=dark"> </p>
 
 <h2>🌱 I’m currently learning:</h2>
-<img src="https://skillicons.dev/icons?i=linux&theme=dark">
+<img src="https://skillicons.dev/icons?i=linux,bash,docker&theme=dark">
 
 <h2><span>&#128200;</span> GitHub Stats:</h2>
 
