@@ -21,5 +21,5 @@
 
 <h2><span>&#128200;</span> GitHub Stats:</h2>
 
-![](https://nirzak-streak-stats.vercel.app/?user=dovvahkiin&theme=react&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dovvahkiin&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)</br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dovvahkiin&theme=dark)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Dovvahkiin&show_icons=true&theme=gruvbox)
