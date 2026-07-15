@@ -1,4 +1,4 @@
-<h1>Student of Information Technology</h1>
+<h1>Master's Student in Information Technology</h1>
 <ul>
   <li>Bachelor of Information Technology</li>
   <li>Passionate programmer</li>
@@ -17,7 +17,7 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=visualstudio,ps,cs&theme=dark"> </p>
 
 <h2>🌱 I’m currently learning:</h2>
-<img src="https://skillicons.dev/icons?i=linux,bash,docker&theme=dark">
+<img src="https://skillicons.dev/icons?i=typescript,linux&theme=dark">
 
 <h2><span>&#128200;</span> GitHub Stats:</h2>
 
