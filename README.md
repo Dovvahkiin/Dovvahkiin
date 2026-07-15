@@ -19,6 +19,13 @@
 <h2>🌱 I’m currently learning:</h2>
 <img src="https://skillicons.dev/icons?i=typescript,linux&theme=dark">
 
+<h2>&#128193; Projects:</h2>
+<ul>
+  <li><strong>Vajamilk D.O.O. </strong>- Developed a full-stack single-page application (SPA) using React and Express. Designed and implemented both the frontend and backend, focusing on responsive design, performance, and user experience. https://vajamilk.com/ </li>
+  <li><strong>Pre Exam application </strong>- Developed a full-stack multi-page web application with user authentication and authorization using React, Express, and MySQL.
+https://github.com/Dovvahkiin/Evidencija-sednica-u-skupstini</li>
+</ul>
+
 <h2><span>&#128200;</span> GitHub Stats:</h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Dovvahkiin&theme=dark)](https://git.io/streak-stats)
