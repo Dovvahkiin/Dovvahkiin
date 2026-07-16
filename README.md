@@ -1,4 +1,4 @@
-<h1>Master's Student in Information Technology</h1>
+<h1>Full-stack JavaScript Web Developer</h1>
 <ul>
   <li>Bachelor of Information Technology</li>
   <li>Passionate programmer</li>
